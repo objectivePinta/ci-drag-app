@@ -8,6 +8,6 @@ public class DummyController {
 
     @GetMapping(path = "/drag")
     public String getTheDummy() {
-        return "drag";
+        return "Fah, martzafoaico!";
     }
 }
