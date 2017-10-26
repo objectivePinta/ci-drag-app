@@ -8,6 +8,6 @@ public class DummyTest {
 
     @Test
     public void dummyTest() {
-        assertEquals(1, 1);
+        assertEquals(21, 1);
     }
 }
